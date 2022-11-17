@@ -1,0 +1,30 @@
+{
+  "name": "uberduck-api",
+  "version": "1.2.2",
+  "description": "Module to make requests on uberduck",
+  "main": "speech.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dakauann/uberduck-api.git"
+  },
+  "keywords": [
+    "uberduck",
+    "module",
+    "api",
+    "famous",
+    "carachters"
+  ],
+  "author": "trashdk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dakauann/uberduck-api/issues"
+  },
+  "homepage": "https://github.com/Dakauann/uberduck-api#readme"
+}

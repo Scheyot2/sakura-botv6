@@ -1,0 +1,24 @@
+{
+	"name": "underscore-keypath",
+	"version": "0.0.22",
+	"homepage": "https://github.com/jeeeyul/underscore-keypath",
+	"authors": [
+		"Jeeeyul <jeeeyul@gmail.com>"
+	],
+	"description": "Keypath mechanism extension for underscore",
+	"main": "./lib/underscore-keypath.min.js",
+	"keywords": [
+		"underscore"
+	],
+	"license": "MIT",
+	"dependencies" : {
+		"underscore" : "1.5.2"
+	},
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}

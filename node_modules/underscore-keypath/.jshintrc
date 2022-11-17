@@ -1,0 +1,15 @@
+{
+	"undef" : true,
+	"unused" : true,
+	"white" : true,
+	"trailing" : true,
+	"laxcomma" : true,
+	"curly" : true,
+	"globals" : {
+		"require" : true,
+		"exports" : true,
+		"module" : true,
+		"Package" : true,
+		"_" : true
+	}
+}

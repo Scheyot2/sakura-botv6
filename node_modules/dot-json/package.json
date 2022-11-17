@@ -1,0 +1,43 @@
+{
+  "name": "dot-json",
+  "version": "1.2.2",
+  "description": "Easily edit a json file from the CLI or NodeJS",
+  "main": "lib/dot-json.js",
+  "bin": {
+    "dot-json": "./bin/dot-json.js"
+  },
+  "scripts": {
+    "test": "mocha && rm -rf ./test-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maikelvl/dot-json.git"
+  },
+  "keywords": [
+    "json",
+    "edit",
+    "get",
+    "set",
+    "delete",
+    "cli"
+  ],
+  "author": {
+    "name": "Maikel Vlasman",
+    "email": "dot-json-ojc8qmc1qkpqg48f@userex.nl",
+    "url": "https://github.com/maikelvl"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maikelvl/dot-json/issues"
+  },
+  "homepage": "https://github.com/maikelvl/dot-json",
+  "dependencies": {
+    "detect-indent": "~6.0.0",
+    "docopt": "~0.6.2",
+    "underscore-keypath": "~0.0.22"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
