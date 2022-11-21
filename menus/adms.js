@@ -96,6 +96,7 @@ const adms = (prefix) => {
 ╎✧ۣۜۜ͜͡🀄 ${prefix}+18
 ╎✧ۣۜۜ͜͡🀄 ${prefix}autoresposta
 ╎✧ۣۜۜ͜͡🀄 ${prefix}modogamer
+╎✧ۣۜۜ͜͡🀄 ${prefix}modozoeira
 ╰╼━═━━≺🎗️≻━━═━─╯
 
 ${NomeDoBot}`
