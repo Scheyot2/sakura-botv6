@@ -11,6 +11,7 @@ return `
 ╎✰ۣۜۜ͜͡🍭 ${prefix}perfil  
 ╎✰ۣۜۜ͜͡🍭 ${prefix}fixapessoal
 ╎✰ۣۜۜ͜͡🍭 ${prefix}nick 
+╎✰ۣۜۜ͜͡🍭 ${prefix}netflix
 ╎✰ۣۜۜ͜͡🍭 ${prefix}level
 ╎✰ۣۜۜ͜͡🍭 ${prefix}Atividade
 ╎✰ۣۜۜ͜͡🍭 ${prefix}status
