@@ -3,22 +3,27 @@ GREEN='\033[0;32m'
 CYAN='\033[0;36m'
 YELLOW='\033[0;33m'
 WHITE='\033[1;37m'
-echo ${YELLOW}'COMO HOSPEDAR NO HEROKU
+echo ${YELLOW}'COMO HOSPEDAR NO GIT HUB
 
-SAIBA QUE DEVES DÁ OS COMANDOS BÁSICOS DO TERMUX, SENÃO NEM VENHA DÁ OS COMANDOS PRA LANÇAR PRO HEROKU
+SAIBA QUE DEVES DÁ OS COMANDOS BÁSICOS DO TERMUX, SENÃO NEM VENHA DÁ OS COMANDOS PRA LANÇAR PRO GIT HUB
 
-PRIMEIRO, VOCÊ DEVE SE CADASTRAR NO HEROKU
+PRIMEIRO, VOCÊ DEVE SE CADASTRAR NO GIT HUB
 
-SITE: heroku.com
+SITE: github.com
 
 É CADASTRO BÁSICO, IGUAL QUALQUER SITE
 
-PRESSIONE ENTER PARA PROSSEGUIR, DEPOIS ESCOHA O MESMO 
-NAVEGADOR QUE USOU PARA CRIAR A CONTA NO HEROKU
+VOCÊ DEVERA TER EM MÃOS, TODAS AS 
+INFORMAÇÕES LISTADAS ABAIXO
 
-OBS: CASO DESCONECTOU SO FAZER LOGIN NOVAMENTE
-'
-heroku login
+1º LINK DO REPOSITÓRIO
+
+2º USUÁRIO DA CONTA
+
+3º TOKEN
+
+PRESSIONE ENTER PARA PROSSEGUIR'
+read next
 rm -rf .git
 git init
 clear
@@ -30,26 +35,29 @@ nome da pasta do bot em MAIÚSCULO'
 echo ${WHITE}
 read NOMEDAPASTA
 git config --global --add safe.directory /storage/emulated/0/$NOMEDAPASTA
-clear
-echo ${CYAN}'Digite um nome para criar o app no Heroku
-
-Obs: Use apenas letras minúsculas'
-echo ${WHITE}
-read NOMEDOAPP
-heroku apps:create $NOMEDOAPP
-heroku git:remote -a $NOMEDOAPP
-heroku buildpacks:add heroku/nodejs
-heroku buildpacks:add https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-heroku buildpacks:add https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-heroku buildpacks:add https://github.com/pathwaysmedical/heroku-buildpack-tesseract
-git config --global user.email "tantofaz@gmail.com"
-git config --global user.name "TantoFaz"
+git config --global user.email "you@example.com"
+git config --global user.name "seunome"
 git add .
-git commit -am "blabla"
-git push heroku master
-echo ${GREEN}'Upload Concluído
+git commit -m "First commit"
+git branch -M main
+clear
+echo ${CYAN}'Digite ou cole o link do seu Repositório'
+echo ${WHITE}
+read NOMEGIT
+git remote add origin $NOMEGIT
+clear
+echo ${CYAN}'No próximo comando, ele vai pedir o Username, é só você digitar o nome de usuário, que foi utilizado para criar a conta no Git Hub
 
-by Lotus
+Logo em seguida ele vai pedir o Password,
+É SÓ VOCÊ COLAR O TOKEN E DAR ENTER
+
+Obs: Não se preocupe na hora de você colar o Token, ele ficara invisível
+
+Pressione enter para Prosseguir'
+echo ${WHITE}
+read next
+git push -u origin main
+echo ${GREEN}'Upload Concluído
 
 Pressione enter para Finalizar'
 read next
