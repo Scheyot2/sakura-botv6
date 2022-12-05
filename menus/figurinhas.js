@@ -20,6 +20,31 @@ return `
 ╎⁂ۣۜۜ͜͡💖 ${prefix}ttp5 "txt"
 ╎⁂ۣۜۜ͜͡💖 ${prefix}ttp6 "txt"
 ╎⁂ۣۜۜ͜͡💖 ${prefix}emoji "🗿"
+╎⁂ۣۜۜ͜͡💖 ${prefix}bully 
+╎⁂ۣۜۜ͜͡💖 ${prefix}cuddle
+╎⁂ۣۜۜ͜͡💖 ${prefix}hug
+╎⁂ۣۜۜ͜͡💖 ${prefix}lick
+╎⁂ۣۜۜ͜͡💖 ${prefix}pat
+╎⁂ۣۜۜ͜͡💖 ${prefix}smug
+╎⁂ۣۜۜ͜͡💖 ${prefix}bonk
+╎⁂ۣۜۜ͜͡💖 ${prefix}yeet
+╎⁂ۣۜۜ͜͡💖 ${prefix}blush
+╎⁂ۣۜۜ͜͡💖 ${prefix}wave
+╎⁂ۣۜۜ͜͡💖 ${prefix}highfive
+╎⁂ۣۜۜ͜͡💖 ${prefix}handhold
+╎⁂ۣۜۜ͜͡💖 ${prefix}nom
+╎⁂ۣۜۜ͜͡💖 ${prefix}bite
+╎⁂ۣۜۜ͜͡💖 ${prefix}glomp
+╎⁂ۣۜۜ͜͡💖 ${prefix}slap
+╎⁂ۣۜۜ͜͡💖 ${prefix}kill
+╎⁂ۣۜۜ͜͡💖 ${prefix}happy
+╎⁂ۣۜۜ͜͡💖 ${prefix}wink
+╎⁂ۣۜۜ͜͡💖 ${prefix}dance
+╎⁂ۣۜۜ͜͡💖 ${prefix}cringe
+╎⁂ۣۜۜ͜͡💖 ${prefix}poke
+╎⁂ۣۜۜ͜͡💖 ${prefix}kiss
+╎⁂ۣۜۜ͜͡💖 ${prefix}cry
+╎⁂ۣۜۜ͜͡💖 ${prefix}smile
 ╎⁂ۣۜۜ͜͡💖 ${prefix}emoji2 "🐷+🔥"
 ╎⁂ۣۜۜ͜͡💖 ${prefix}Fsticker "marcar"
 ╎⁂ۣۜۜ͜͡💖 ${prefix}Toimg "marcar"
