@@ -893,5 +893,30 @@
         "cmd_messages": 0
       }
     ]
+  },
+  {
+    "groupId": "556684465476-1520721135@g.us",
+    "numbers": [
+      {
+        "id": "556699355344@s.whatsapp.net",
+        "messages": 22,
+        "cmd_messages": 0
+      },
+      {
+        "id": "556684418698@s.whatsapp.net",
+        "messages": 11,
+        "cmd_messages": 0
+      }
+    ]
+  },
+  {
+    "groupId": "120363027801825638@g.us",
+    "numbers": [
+      {
+        "id": "5512978986457@s.whatsapp.net",
+        "messages": 9,
+        "cmd_messages": 6
+      }
+    ]
   }
 ]
