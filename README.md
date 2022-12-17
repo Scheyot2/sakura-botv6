@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐎𝐓+𝐕6;𝐌𝐀𝐈𝐒+𝐔𝐒𝐀𝐃𝐀+𝐃𝐎+𝐁𝐑;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐎𝐓+𝐕6.5;𝐌𝐀𝐈𝐒+𝐔𝐒𝐀𝐃𝐀+𝐃𝐎+𝐁𝐑;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
@@ -35,7 +35,7 @@ git clone https://github.com/Scheyot2/sakura-botv6.git
 ```
 **5° Comando**
 ```
-cd sakura-botv6
+cd /sdcard/sakura-botv6
 ```
 
 ## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
