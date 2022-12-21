@@ -68,6 +68,7 @@ const adms = (prefix) => {
 ╎✧ۣۜۜ͜͡🃏 ${prefix}descgp 
 ╎✧ۣۜۜ͜͡🃏 ${prefix}nomegp
 ╎✧ۣۜۜ͜͡🃏 ${prefix}novolik "DO-GP"
+╎✧ۣۜۜ͜͡🃏 ${prefix}divug "gpnovo"
 ╰╼━═━━≺🎗️≻━━═━─╯
     
       👑𝐀𝐓𝐈𝐕𝐀𝐂̧𝐎̃𝐄𝐒👑
